@@ -1,4 +1,4 @@
-# Site Web - Bikcraft - Curso Origamid
+# Website - Bikcraft - Curso Origamid
 - Página Web 100% responsiva com intuito de aprendizado pessoal.
 
 ## Tecnologias utilizadas no projeto
